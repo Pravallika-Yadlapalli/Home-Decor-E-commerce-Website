@@ -61,7 +61,8 @@ Open the project folder in your editor (VS Code recommended).
 
 Open index.html in a browser to view the website.
 
-📂** Folder Structure**
+📂**Folder Structure**
+
 Home-Decor-E-commerce-Website/
 │── index.html
 │── about.html
@@ -74,6 +75,6 @@ Home-Decor-E-commerce-Website/
 │── assets/
 └── README.md
 
-📜** License**
+📜**License**
 
 This project is created for academic purposes as part of the Web Application Development Lab.
